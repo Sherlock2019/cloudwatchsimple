@@ -1,0 +1,2 @@
+# cloudwatchsimple
+CW cannary wiki
